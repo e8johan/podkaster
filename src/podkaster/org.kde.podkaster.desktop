@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=podkaster
+Comment=podkaster Kirigami Application
+Version=1.0
+Exec=podkaster
+Icon=applications-development
+Type=Application
+Terminal=false
+Categories=Qt;KDE;
